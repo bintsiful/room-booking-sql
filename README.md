@@ -51,4 +51,4 @@ Read the blog here: [What a Room Booking Question on Oracle Forums Taught Me Abo
 
 ---
 
-For detailed explanations and performance metrics, refer to the blog post linked above.
+For detailed explanations and performance metrics, refer to the blog post linked above here: [What a Room Booking Question on Oracle Forums Taught Me About Data Modeling in Oracle APEX](https://bintsiful.hashnode.dev/what-a-room-booking-question-on-oracle-forums-taught-me-about-data-modeling-in-oracle-apex)
